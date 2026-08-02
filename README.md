@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bologna%2C%20Italy-E8640A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Field-Industrial%20Design%20%26%20Dev-black?style=flat-square" />
 </p>
 
 ---
@@ -68,8 +67,4 @@
   <a href="mailto:marco.campari@studio.unibo.it"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/marco-campari-271b7132b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=E86A0A&style=flat-square" alt="profile views" />
 </p>

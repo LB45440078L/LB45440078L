@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Marco Campari 👋</h1>
-<h3 align="center">Industrial Designer & Software Developer</h3>
+<h3 align="center">Software Developer & Industrial Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8640A&center=true&vCenter=true&width=600&lines=Industrial+Design+%2B+Software+Engineering;Java+%2F+C+Developer+for+6%2B+years;Embedded+Systems+%7C+Arduino+%7C+Espressif;CAD+%2B+3D+Printing+%2B+UAV+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8640A&center=true&vCenter=true&width=600&lines=Software+Development+%2B+Industrial+Design;Java+%2F+C+Developer+for+6%2B+years;Embedded+Systems+%7C+Arduino+%7C+Espressif;CAD+%2B+3D+Printing+%2B+UAV+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">

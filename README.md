@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marco 👋</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Software Developer & Industrial Designer</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Bachelor's in **Industrial Design** — Alma Mater Studiorum, Università di Bologna
+- 🎓 Bachelor's and ongoing Masters in **Industrial Design**
 - 💻 In parallel, **6+ years** developing in **Java** and **C**
 - 🛡️ Background in **safety & administration tools/APIs** for game-related environments
 - 🖥️ Experience with **graphical rendering** and **networking clients**
@@ -58,13 +58,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LB45440078L&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LB45440078L&layout=compact&hide_border=true" />
 </p>
-
----
-
-### 📫 Get in Touch
-
-<p align="left">
-  <a href="mailto:marco.campari@studio.unibo.it"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/marco-campari-271b7132b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" /></a>
-</p>
+ 

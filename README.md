@@ -13,7 +13,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Bachelor's and ongoing Masters in **Industrial Design**
+- 🎓 Bachelor Graduate and ongoing Masters in **Industrial Energy Engineering**
 - 💻 In parallel, **6+ years** developing in **Java** and **C**
 - 🛡️ Background in **safety & administration tools/APIs** for game-related environments
 - 🖥️ Experience with **graphical rendering** and **networking clients**
